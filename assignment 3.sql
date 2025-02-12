@@ -1,0 +1,23 @@
+create database office;
+use office;
+create table managers(manager_id int,
+first_name varchar(20),last_name varchar(20),
+DOB DATE,age int check(age>22) ,last_update timestamp,gender char,department varchar(20),
+salary int not null);
+INSERT INTO managers (MANAGER_ID,FIRST_NAME,LAST_NAME,DOB,AGE,GENDER,DEPARTMENT,SALARY)
+values(102,'akash','menon','1992-2-8',32,'m','IT',32000),
+(103,'akash','CV','1990-6-9',34,'m','IT',35000),
+(104,'PRIYA','LAL','1993-9-6',31,'F','FINANCE',22000),
+(105,'ARYA','BALAN','1999-2-8',25,'F','HR',28000),
+(106,'KAJAL','BAYA','2001-2-8',23,'F','IT',32000),
+(107,'REKHA','RAJ','2001-2-8',23,'F','IT',20000),
+(108,'akash','JP','1995-2-8',29,'m','MARKETING',35000),
+(109,'RAJ','KUMAR','1990-2-8',34,'m','IT',38000),
+(110,'ROSH','GEORGE','1989-2-8',34,'m','FINANCE',42000),
+(111,'RAKHI','menon','1995-2-8',30,'F','HR',30000);
+SELECT *FROM MANAGERS;
+SELECT FIRST_NAME,LAST_NAME,DOB FROM MANAGERS WHERE MANAGER_ID=102;
+SELECT FIRST_NAME,LAST_NAME,SALARY*12 AS "ANNUAL INCOME" FROM MANAGERS;
+SELECT * FROM MANAGERS WHERE FIRST_NAME<>"REKHA";
+SELECT * FROM MANAGERS WHERE DEPARTMENT="IT" AND SALARY>25000;
+SELECT * FROM MANAGERS WHERE SALARY BETWEEN 10000 AND 35000;
