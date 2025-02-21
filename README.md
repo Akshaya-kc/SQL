@@ -29,3 +29,15 @@ output of sql 5 assignment questions
 ![6 3](https://github.com/user-attachments/assets/1ad090a1-e837-44ae-afe7-aefdbeee2f4d)
 #4
 ![6 4](https://github.com/user-attachments/assets/cdc59229-c27e-43af-99a8-180a6d2efe5d)
+
+ # 7th assignment output
+ # 1qn
+ ![7 1](https://github.com/user-attachments/assets/e38dbcbd-2ad3-4d3a-811f-64f147bac4c5)
+#3
+![7 3](https://github.com/user-attachments/assets/761f1ece-439d-435d-844a-6a5091933bbd)
+#4
+![7 4](https://github.com/user-attachments/assets/8bbed31f-c125-4d60-96c4-8f56f3b4478c)
+#5
+![7 5](https://github.com/user-attachments/assets/29ee37b1-7d8f-4fde-88d4-e013301d96d7)
+# 6
+![7 6](https://github.com/user-attachments/assets/10226724-8056-43f9-b420-bfce0ca0bc93)
