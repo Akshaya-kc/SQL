@@ -15,4 +15,17 @@ output of sql 5 assignment questions
 11![5 11](https://github.com/user-attachments/assets/77c2ee45-c698-4197-a65d-820a0fc31ba3)
 12![5 12](https://github.com/user-attachments/assets/4dd098bf-6677-44ce-ad11-140426f60076)
 13![5 last](https://github.com/user-attachments/assets/d99b9e64-9c74-4121-8d98-696586f602ac)
+#6th assisgnment 
+ #1 qn
+#left join  ![leftjoin](https://github.com/user-attachments/assets/272c0021-c929-4ca9-ae48-040076d26397)
+# right join
+![right join](https://github.com/user-attachments/assets/f0257f36-0be6-40b1-8a2c-3ab09974205d)
+# inner join
 
+![innerjoin](https://github.com/user-attachments/assets/fe5c028c-16e9-4c04-876a-869b8facc4e4)
+#2
+![6 2](https://github.com/user-attachments/assets/9122616d-e041-4d07-8a14-9743b4fe3315)
+#3
+![6 3](https://github.com/user-attachments/assets/1ad090a1-e837-44ae-afe7-aefdbeee2f4d)
+#4
+![6 4](https://github.com/user-attachments/assets/cdc59229-c27e-43af-99a8-180a6d2efe5d)
