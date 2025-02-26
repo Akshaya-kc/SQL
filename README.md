@@ -41,3 +41,30 @@ output of sql 5 assignment questions
 ![7 5](https://github.com/user-attachments/assets/29ee37b1-7d8f-4fde-88d4-e013301d96d7)
 # 6
 ![7 6](https://github.com/user-attachments/assets/10226724-8056-43f9-b420-bfce0ca0bc93)
+
+# 8TH ASSIGNMENT
+#1![8 1](https://github.com/user-attachments/assets/c57b6add-9460-48c8-bce7-e61e5462794f)
+#2 
+![8 2](https://github.com/user-attachments/assets/09acb586-22ae-4146-b85e-648fa11e4a82)
+#3
+![8 3](https://github.com/user-attachments/assets/341d1490-d8ca-485b-b6d5-1e107d9ad0cb)
+#4
+![8 4](https://github.com/user-attachments/assets/51db0e10-f5b1-47e2-b64e-78fcf54cfa97)
+#5
+![8 5](https://github.com/user-attachments/assets/50e25842-4e16-4407-a4e9-1b85b0e8705b)
+#### VIEW BASED QUESTIONS
+#1
+![8  2  1](https://github.com/user-attachments/assets/e7f49a95-a65a-455e-a2dc-b6c1f4bf24e5)
+#2
+![8 2 2](https://github.com/user-attachments/assets/f560e256-5980-4c00-b9c6-d4a0a6184e03)
+#3
+![8 2 3](https://github.com/user-attachments/assets/02fe0261-f846-49dc-9752-d4604f3363ed)
+#4
+![8 2 4](https://github.com/user-attachments/assets/c51e0d08-8926-4819-a08d-251f0e98a670)
+#5
+![8 2 5](https://github.com/user-attachments/assets/e46c28b8-081b-496d-b4b6-578cd55d5c12)
+#6
+![8 2 6](https://github.com/user-attachments/assets/48a2eeca-b2f1-43ce-a258-2137a51a6c14)
+#7
+
+![8 2 7](https://github.com/user-attachments/assets/efff4629-0c6f-4307-b3a4-7011aae3c34a)
