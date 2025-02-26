@@ -68,3 +68,25 @@ output of sql 5 assignment questions
 #7
 
 ![8 2 7](https://github.com/user-attachments/assets/efff4629-0c6f-4307-b3a4-7011aae3c34a)
+
+
+
+
+#### SQL 9 TH ASSIGNMENT####OUTPUT
+##1
+![9 1](https://github.com/user-attachments/assets/0b7f9189-e4c6-4de3-8752-23f088c16ab6)
+
+##2
+![9 2](https://github.com/user-attachments/assets/fb3a8bad-e9fb-45ff-804f-3ed3807243c9)
+
+##3
+![9 3](https://github.com/user-attachments/assets/f0779e64-fd9e-4389-9951-fe8030b2865f)
+
+##4
+![9 4](https://github.com/user-attachments/assets/59323d71-48d0-432c-87a4-c143952c178b)
+
+##5
+![9 5](https://github.com/user-attachments/assets/9040d366-92ba-4d4f-823f-fd682b898374)
+
+
+
