@@ -1,4 +1,4 @@
-# SQL
+![sql 10 4](https://github.com/user-attachments/assets/2c2d2d14-92e1-4c75-9262-a1f42ae175ef)# SQL
 # FIRST ATTEMPT IN SQL
 #OUTPUT ![Screenshot 2025-01-09 191938](https://github.com/user-attachments/assets/16dc7b71-d2fa-48d7-a083-9025511b55cb)
 output of sql 5 assignment questions
@@ -88,5 +88,14 @@ output of sql 5 assignment questions
 ##5
 ![9 5](https://github.com/user-attachments/assets/9040d366-92ba-4d4f-823f-fd682b898374)
 
-
-
+## 10 assignment here i work with the triggers
+##1 
+![sql 10 1](https://github.com/user-attachments/assets/82b1be01-2317-4e44-89b1-7df08126b5a1)
+##2
+![sql 10 2](https://github.com/user-attachments/assets/0091c571-c2e9-4a47-88b7-eb8e8894b2c6)
+##3
+![sql 10 3](https://github.com/user-attachments/assets/803ad7c2-9f4c-46fa-8e8c-e8ef6d9f3135
+##4
+![sql 10 last](https://github.com/user-attachments/assets/d279a07a-d13e-4292-8f9e-4eb77e40ed2e)
+##5
+![sql 10 last](https://github.com/user-attachments/assets/e61159e5-0142-4ef0-99e8-8e23ae7302a3)
